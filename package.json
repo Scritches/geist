@@ -1,0 +1,22 @@
+{
+  "name": "geist",
+  "version": "0.0.1",
+  "description": "A modern Node IRC client library",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scritches/geist.git"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "Scritches",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Scritches/geist/issues"
+  },
+  "homepage": "https://github.com/Scritches/geist#readme"
+}
